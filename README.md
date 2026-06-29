@@ -1,2 +1,2 @@
 # code-ahorcado
-Probando codigo juego ahorcado en #C
+entendible y con opciones variadas
